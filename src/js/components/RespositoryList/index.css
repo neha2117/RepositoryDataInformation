@@ -1,0 +1,11 @@
+.repository-wrapper {
+    display: block;
+    width: 600px;
+    margin: auto;
+    background: lightgrey;
+}
+
+.respository-container {
+    display: inline-block;
+    width: 50%;
+}

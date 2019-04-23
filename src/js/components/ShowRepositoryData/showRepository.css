@@ -1,0 +1,9 @@
+.showRepository-wrapper {
+    width: 100%;
+    margin: auto;
+    margin-top: 4;
+    background: grey;
+    height: 300px;
+    box-sizing: border-box;
+    padding: 80px;
+}
